@@ -1,0 +1,16 @@
+Product Type: Electronics
+Product ID: 123
+Product Name: Lap
+Available Items: 5
+Price: 1000000.00
+Brand: Mac
+Warranty Period: 24 months
+
+Product Type: Clothing
+Product ID: A001
+Product Name: Shirt
+Available Items: 2
+Price: 1000.00
+Size: M
+Color: White
+
